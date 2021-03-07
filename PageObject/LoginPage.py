@@ -73,5 +73,5 @@ if __name__ == "__main__":
     login_page.click_login_link()
     login_page.switch_to_iframe()
     login_page.input_username("lgf18301991450")
-    login_page.input_password("411527lgf")
+    login_page.input_password("123456gf")
     login_page.click_login_button()
